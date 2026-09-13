@@ -2,7 +2,7 @@
 
 **End-to-end BA project analyzing a year of CRM pipeline data — finding that win rate is a red herring across the board, while account size and quarter-end timing hide real, actionable revenue opportunities.**
 
-MySQL/MariaDB · Power BI · DAX
+Excel · MySQL/MariaDB · Power BI · DAX
 
 ![Overview Dashboard](images/overview.PNG)
 
@@ -36,7 +36,7 @@ The quarter-end seasonality finding — the strongest result in the project — 
 
 ## Full Case Study
 
-For the complete write-up — full methodology, all four findings sections with supporting tables, cross-cutting synthesis, and prioritized recommendations — see [`docs/CRM_Sales_Pipeline_Analysis.docx`](docs/CRM_Sales_Pipeline_Analysis.docx).
+For the complete write-up — full methodology, all four findings sections with supporting tables, cross-cutting synthesis, and prioritized recommendations — see [`docs/crm_sales_pipeline_analysis.pdf`](docs/crm_sales_pipeline_analysis.pdf).
 
 ## Repo Structure
 
